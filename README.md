@@ -24,6 +24,9 @@ This is a simple and secure Ethereum smart contract that allows donors to contri
 
 ---
 
+![05922446-7F03-407E-92DE-76C77DCE7940](https://github.com/user-attachments/assets/dd605f9f-476f-4769-812f-742cf6a10519)
+
+
 ## 📂 Functions
 
 ### 👨‍🏫 Constructor
@@ -102,12 +105,13 @@ yaml
 Copy
 Edit
 
+
+Would you like a **frontend UI** or deployment script (like Hardhat or Foundry) added to this project?```
+
 ---
 
-Would you like a **frontend UI** or deployment script (like Hardhat or Foundry) added to this project?
 
-
-
+![05922446-7F03-407E-92DE-76C77DCE7940](https://github.com/user-attachments/assets/01a0c6d8-b8d4-4804-9215-6b9a10d9a665)
 
 
 
