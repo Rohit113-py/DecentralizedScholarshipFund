@@ -109,9 +109,8 @@ Edit
 Would you like a **frontend UI** or deployment script (like Hardhat or Foundry) added to this project?```
 
 ---
+CONTRACT DETAILS: 0xf6bb0c9813eca798e8c2fb17638fb3b9122bc924
 
-
-![05922446-7F03-407E-92DE-76C77DCE7940](https://github.com/user-attachments/assets/01a0c6d8-b8d4-4804-9215-6b9a10d9a665)
 
 
 
