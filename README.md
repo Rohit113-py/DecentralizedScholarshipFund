@@ -1,5 +1,4 @@
-# DecentralizedScholarshipFund
-# DecentralizedScholarshipFund
+
 # 🎓 Decentralized Scholarship Fund (Solidity Smart Contract)
 
 This is a simple and secure Ethereum smart contract that allows donors to contribute funds to a scholarship pool. Approved students can claim a fixed amount of ETH as a scholarship, verified and approved by a fund manager.
@@ -23,7 +22,7 @@ This is a simple and secure Ethereum smart contract that allows donors to contri
 - **Deployed On**: Compatible with Ethereum and testnets (e.g., Sepolia, Goerli)
 
 ---
-CONTRACT DETAILS: 0xf6bb0c9813eca798e8c2fb17638fb3b9122bc92
+##CONTRACT DETAILS: 0xf6bb0c9813eca798e8c2fb17638fb3b9122bc92
 ![05922446-7F03-407E-92DE-76C77DCE7940](https://github.com/user-attachments/assets/dd605f9f-476f-4769-812f-742cf6a10519)
 
 
